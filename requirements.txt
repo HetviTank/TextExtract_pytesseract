@@ -1,0 +1,7 @@
+pytesseract
+numpy
+opencv-python
+pillow
+
+https://github.com/UB-Mannheim/tesseract/wiki
+download tesseractOCR
